@@ -1,0 +1,2 @@
+一个强大的JavaScript文件分析工具
+作者:hama
