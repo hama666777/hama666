@@ -139,6 +139,8 @@ python hdsrc-jsfinder.py -u http://example.com -ou urls.txt -os subdomains.txt -
 ## 作者
 
 - hama
+- 作者交流微信
+![mmqrcode1745552433056](https://github.com/user-attachments/assets/df53f10c-d026-49d5-b055-42f323f467d8)
 
 ## 更新日志
 
