@@ -40,8 +40,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/jsfinder.git
-cd jsfinder
+git clone https://github.com/hama666777/jsfinder-2.0.git
+cd jsfinder-2.0
 
 # 安装依赖
 pip install -r requirements.txt
